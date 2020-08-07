@@ -6,6 +6,10 @@ description: >-
 
 # Usage
 
+{% hint style="warning" %}
+**Heads up**: Our documentation has moved -- you can find the new docs at [https://docs.errata.ai/vale/cli](https://docs.errata.ai/vale/cli).
+{% endhint %}
+
 ## Commands
 
 ### `ls-config / dc`

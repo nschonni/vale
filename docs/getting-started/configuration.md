@@ -4,6 +4,10 @@ description: 'Learn about Vale''s comprehensive, plain-text configuration system
 
 # Configuration
 
+{% hint style="warning" %}
+**Heads up**: Our documentation has moved -- you can find the new docs at [https://docs.errata.ai/vale/config/](https://docs.errata.ai/vale/config).
+{% endhint %}
+
 ## Basics
 
 The `.vale.ini` file is where you'll control the majority of Vale's behavior, including what files to lint and how to lint them:

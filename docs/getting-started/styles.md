@@ -4,6 +4,10 @@ description: 'Learn about Vale''s unique, YAML-based extension system'
 
 # Styles
 
+{% hint style="warning" %}
+**Heads up**: Our documentation has moved -- you can find the new docs at [https://docs.errata.ai/vale/styles](https://docs.errata.ai/vale/styles).
+{% endhint %}
+
 ## Introduction
 
 Vale has a powerful extension system that doesn't require knowledge of any programming language. Instead, it exposes its functionality through simple [YAML](http://yaml.org) files.

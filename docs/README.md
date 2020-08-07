@@ -6,6 +6,10 @@ description: >-
 
 # Quick Start
 
+{% hint style="warning" %}
+**Heads up**: Our documentation has moved -- you can find the new docs at [https://docs.errata.ai/vale/about/](https://docs.errata.ai/vale/about/).
+{% endhint %}
+
 ![Example Vale output using a custom style \(18F\)](https://user-images.githubusercontent.com/8785025/71751520-ab91fa00-2e30-11ea-9e67-6e2babb5d0ee.png)
 
 **Vale** is a cross-platform \(macOS, Windows, and Linux\), command-line [linter](https://en.wikipedia.org/wiki/Lint_%28software%29) for prose built with speed and extensibility in mind. Its key features are as follows:

@@ -6,8 +6,8 @@ description: >-
 
 # Installation
 
-{% hint style="info" %}
-If you're using Vale with a markup format other than Markdown or HTML, you'll also need to install a [parser](markup.md#formats).
+{% hint style="warning" %}
+**Heads up**: Our documentation has moved -- you can find the new docs at [https://docs.errata.ai/vale/install](https://docs.errata.ai/vale/install)
 {% endhint %}
 
 ## Remote, collaborative use[¶](https://errata-ai.github.io/vale/#remote-collaborative-use)

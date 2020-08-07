@@ -4,6 +4,10 @@ description: Learn about Vale's syntax-aware scoping system.
 
 # Markup
 
+{% hint style="warning" %}
+**Heads up**: Our documentation has moved -- you can find the new docs at [https://docs.errata.ai/vale/scoping](https://docs.errata.ai/vale/scoping).
+{% endhint %}
+
 ## Overview
 
 Vale is "syntax aware," which means that it's capable of both applying rules to and ignoring certain sections of text. This functionality is implemented through a _scoping_ system. A scope is specified through a _selector_ such as `paragraph.rst`, which indicates that the rule applies to all paragraphs in reStructuredText files. Here are a few examples:
