@@ -19,5 +19,4 @@
 ## Resources <a id="resources-1"></a>
 
 * [Official Style Library](https://github.com/errata-ai/styles)
-* [testthedocs/vale-styles](https://github.com/testthedocs/vale-styles)
 
